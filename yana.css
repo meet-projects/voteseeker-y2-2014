@@ -10,4 +10,12 @@ p{
 .notpink{
 	background-color: white;
 }
-
+a{
+	font-size: 40px;
+}
+button{
+	width: 300px;
+	height: 150px;
+	background-color: pink;
+	font-size: 40px;
+}    
