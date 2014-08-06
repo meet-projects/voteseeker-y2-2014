@@ -1,0 +1,47 @@
+h1{
+	text-align: center;
+	color: black;
+	background-color: pink;
+	
+}
+body{
+}
+
+form{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+div{
+	text-align: center;
+}
+h4{
+	text-align: center;
+}
+.good{
+	text-align: right;
+	padding-right: 70px;
+	margin-top: 300px;
+}
+.Button{
+	text-align: right;
+	padding-right: 70px;
+
+}
+#Thanku{
+	font-size: 80px;
+}
+#azeez{
+	text-align: center;
+}
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
+li {
+    display: inline;
+    margin-left: 60px;
+
+}
