@@ -1,0 +1,23 @@
+h1{
+	text-align: center;
+	background-color: pink;
+	font-size: 80px;
+
+}
+img{
+	position: absolute;
+	left: 1100px;
+	top: 500px;
+}
+h3{
+	color: blue;
+}
+h4{
+	color: green;
+}
+h2{
+	color:black;
+}
+h2{
+	text-align: center;
+}
