@@ -1,0 +1,14 @@
+h1{
+	text-align: center;
+	background-color: pink;
+	font-size: 80px;
+}
+
+img{
+	position: absolute;
+	left: 1100px;
+	top: 500px;
+}
+p{
+	font-size: 30px;
+}
