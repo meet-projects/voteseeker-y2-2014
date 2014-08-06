@@ -25,9 +25,18 @@ button{
 	font-size: 25px;
 	background-color: pink;
 }
-body{
-	background-image: http://blog.gembaacademy.com/wp-content/uploads/2013/11/what-problem-are-you-trying-to-solve.png;
+
 }
 div{
 	margin-left: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
+li {
+    display: inline;
+    margin-left: 60px;
+
 }
