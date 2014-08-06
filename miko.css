@@ -6,8 +6,8 @@ h1{
 }
 img{
 	position: absolute;
-	left: 1100px;
-	top: 500px;
+	left: 1111px;
+	top: 625px;
 }
 h3{
 	color: blue;
@@ -16,8 +16,18 @@ h4{
 	color: green;
 }
 h2{
-	color:black;
+	color:blac
 }
 h2{
-	text-align: center;
+	text-align: left;
+}
+button{
+	font-size: 25px;
+	background-color: pink;
+}
+body{
+	background-image: http://blog.gembaacademy.com/wp-content/uploads/2013/11/what-problem-are-you-trying-to-solve.png;
+}
+div{
+	margin-left: 50px;
 }
