@@ -29,3 +29,6 @@ img{
 	left: 1100px;
 	top: 600px;
 }
+ul li a, .navigation a{
+	font-size: 35px;
+}
