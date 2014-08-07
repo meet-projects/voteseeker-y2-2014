@@ -32,3 +32,18 @@ img{
 ul li a, .navigation a{
 	font-size: 35px;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
+
+li {
+	margin-left: 60px;
+}
+.mamama{
+	font-size: 35px;
+	display: inline;
+    margin-left: 60px;
+}
